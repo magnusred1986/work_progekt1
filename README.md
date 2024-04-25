@@ -12,7 +12,7 @@
 
 ### Панель управления
 
-![run_prcs.gif](run_prcs.gif)     
+<img alt="run_prcs.gif" src="run_prcs.gif"/>  
 
 
 [ОБРАЗЕЦ_ОТЧЕТА](https://drive.google.com/file/d/10LBAkqqwQCXrIS5RM9LhpUSEJNriEPT-/view?usp=sharing)
