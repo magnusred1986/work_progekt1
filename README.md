@@ -14,6 +14,7 @@
 
 ![run_prcs.gif](run_prcs.gif)   
 
+
 [ОБРАЗЕЦ_ОТЧЕТА](https://drive.google.com/file/d/10LBAkqqwQCXrIS5RM9LhpUSEJNriEPT-/view?usp=sharing)
 
 ### Технологии
